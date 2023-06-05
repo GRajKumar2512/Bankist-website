@@ -1,0 +1,14 @@
+{
+  "name": "bankist-website",
+  "version": "1.0.0",
+  "description": "marketing website for a bank",
+  "default": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "G.Raj kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.1"
+  }
+}
